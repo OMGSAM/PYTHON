@@ -1,0 +1,6 @@
+nom=input("ecrire un texte")
+x=len(nom)
+if x==0 :
+print("la chaine est vide")
+else :
+print("la chaine nest pas vide")
