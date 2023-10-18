@@ -1,0 +1,4 @@
+X=input("donnez une chaine ")
+x=X.split()
+input("la chaine extraite est ")
+input (x)
