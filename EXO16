@@ -1,0 +1,7 @@
+Z=input("donnez le nbr detudaints")
+for i in range Z : 
+print('L[,i+1]  =' , end =' ' )
+L.append(float(input)))
+print(L)
+S=sum(L)
+Moyenne=S/len(L)
