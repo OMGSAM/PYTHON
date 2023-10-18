@@ -1,0 +1,8 @@
+M=input("entrez la chaine ")
+s=M.split(" ")
+word=input("donnez le mot que vous cherchez dans la chaine")
+c=0
+for i in s :
+if (i==word) :
+c=c+1
+print("loccurence de la chaine est :" , c)
