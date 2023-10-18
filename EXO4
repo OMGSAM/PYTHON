@@ -1,0 +1,2 @@
+x=input("donnez une chaine de caracteres")
+print("la chaine sans espace est : " , x.replace(" ","")
