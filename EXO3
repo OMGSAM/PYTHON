@@ -1,0 +1,5 @@
+M=input("donnez une chaine caracteres")
+i=""
+for x in M :
+i=x+i 
+print("linverse de votre chaine est" ,i)
