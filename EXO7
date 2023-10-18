@@ -1,0 +1,4 @@
+Q=input("donnez une chaine de caractere")
+x=Q.upper()
+print("le majusclue du chaine est ")
+print(x)
