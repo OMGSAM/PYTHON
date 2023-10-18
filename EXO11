@@ -1,0 +1,8 @@
+X=input("donnez un nombre")
+c=0
+for in range X : 
+if X%i==0 :
+c=c+1
+if c==2
+print ("les nombres premiers" , i )
+  
