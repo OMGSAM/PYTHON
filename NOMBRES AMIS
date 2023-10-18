@@ -1,0 +1,18 @@
+A=input("donnez a")
+B=input("donnez b")
+c=1 
+for i in range (2,(a/2)+1) :
+if a%i==0 :
+c=c+i
+
+d=1
+ for i in range (2,(b/2)+1) :
+if b%i==0
+d=d+i
+
+if a==c and b==d :
+
+print ("a et b sont amis ")
+else : 
+print(" a et b ne sont pas amis")
+
