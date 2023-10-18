@@ -1,3 +1,3 @@
-NOM = input("donnez un texte")
+NOM = input("donnez une chaine")
 x=len(NOM)
 print(x)
