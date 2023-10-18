@@ -1,3 +1,3 @@
 M=input("donnez une chaine caracteres")
-N=input"donnez la sous chaine dont vous cherchez")
+N=input("donnez la sous chaine dont vous cherchez")
 print( M.index("N"))
