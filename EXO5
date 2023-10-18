@@ -1,0 +1,6 @@
+W=input("donnez une chaine de caractere")
+inv=W[::-1]
+if W==inv :
+print("la chaine est palindome ") 
+else :
+print("la chaina nest pas palindrome")
