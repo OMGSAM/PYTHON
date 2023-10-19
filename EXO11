@@ -1,7 +1,7 @@
 X=input("donnez un nombre")
 c=0
 i=2
-for in range X : 
+for i in range X : 
 if X%i==0 :
 c=c+1
 if c==2
