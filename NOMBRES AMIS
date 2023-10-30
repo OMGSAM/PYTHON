@@ -1,16 +1,16 @@
 A=input("donnez a")
 B=input("donnez b")
 c=1 
-for i in range (2,(a/2)+1) :
-if a%i==0 :
+for i in range (2,(A/2)+1) :
+if A%i==0 :
 c=c+i
 
 d=1
- for i in range (2,(b/2)+1) :
-if b%i==0
+ for i in range (2,(B/2)+1) :
+if B%i==0
 d=d+i
 
-if a==c and b==d :
+if A==c and B==d :
 
 print ("a et b sont amis ")
 else : 
